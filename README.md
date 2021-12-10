@@ -17,7 +17,7 @@
 
 4. 点击Actions选项卡，点击`I understand my workflows, go ahead and enable them`.
 
-5. 点击Settings选项卡，点击左侧Secrets，点击New secret，创建名为`STUID`，值为自己学号的secret。用同样方法，创建名为`PASSWORD`，值为自己中国滑稽大学统一身份认证密码的secret。然后创建名为`DATA`的Secret，值为data.json中的内容，data.json中的内容获取参考[data.json 数据获取方法](##data.json 数据获取方法)，以上数据均不会被公开。
+5. 点击Settings选项卡，点击左侧Secrets，点击New secret，创建名为`STUID`，值为自己学号的secret。用同样方法，创建名为`PASSWORD`，值为自己中国滑稽大学统一身份认证密码的 secret。然后创建名为`DATA`的Secret，值为data.json中的内容，data.json中的内容获取参考[data.json 数据获取方法](##data.json 数据获取方法)，以上数据均不会被公开。
 
    ![secrets](imgs/secrets.png)
 
